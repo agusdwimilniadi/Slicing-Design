@@ -1,0 +1,272 @@
+.banner {
+  height: 150vh;
+  width: 100%;
+  background-image: url("https://sso.unej.ac.id/cas/themes/unej/images/bg.jpg");
+  background-position: center;
+}
+.form-style {
+  background-color: #323131;
+}
+.form-style span {
+  color: #858585;
+}
+.btn-unej {
+  background-color: #3792c5;
+  border-radius: 0px;
+  color: white;
+}
+.btn-unej-2 {
+  background-color: red;
+  border-radius: 0px;
+  color: white;
+}
+
+.box-card-1 {
+  background-color: #5f94f9;
+  overflow: hidden;
+  height: 150px;
+  height: 150px;
+  position: relative;
+  cursor: pointer;
+}
+.box-card-1:hover .box-info-1 {
+  transform: translateY(0%);
+}
+.box-info-1 {
+  background-color: #5f94f9;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease;
+}
+
+.box-card-2 {
+  background-color: #b31939;
+  overflow: hidden;
+  height: 150px;
+  height: 150px;
+  position: relative;
+  cursor: pointer;
+}
+.box-card-2:hover .box-info-2 {
+  transform: translateY(0%);
+}
+.box-info-2 {
+  background-color: #b31939;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease;
+}
+
+.box-card-3 {
+  background-color: #19786c;
+  overflow: hidden;
+  height: 150px;
+  height: 150px;
+  position: relative;
+  cursor: pointer;
+}
+.box-card-3:hover .box-info-3 {
+  transform: translateY(0%);
+}
+.box-info-3 {
+  background-color: #19786c;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease;
+}
+
+.box-card-4 {
+  background-color: #f68c2e;
+  overflow: hidden;
+  height: 150px;
+  height: 150px;
+  position: relative;
+  cursor: pointer;
+}
+.box-card-4:hover .box-info-4 {
+  transform: translateY(0%);
+}
+.box-info-4 {
+  background-color: #f68c2e;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease;
+}
+
+.box-card-5 {
+  background-color: #7931a4;
+  overflow: hidden;
+  height: 150px;
+  height: 150px;
+  position: relative;
+  cursor: pointer;
+}
+.box-card-5:hover .box-info-5 {
+  transform: translateY(0%);
+}
+.box-info-5 {
+  background-color: #7931a4;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease;
+}
+
+.box-card-6 {
+  background-color: #332a68;
+  overflow: hidden;
+  height: 150px;
+  height: 150px;
+  position: relative;
+  cursor: pointer;
+}
+.box-card-6:hover .box-info-6 {
+  transform: translateY(0%);
+}
+.box-info-6 {
+  background-color: #332a68;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease;
+}
+
+.box-card-7 {
+  background-color: #2559aa;
+  overflow: hidden;
+  height: 150px;
+  height: 150px;
+  position: relative;
+  cursor: pointer;
+}
+.box-card-7:hover .box-info-7 {
+  transform: translateY(0%);
+}
+.box-info-7 {
+  background-color: #2559aa;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease;
+}
+
+.box-card-8 {
+  background-color: #ffc71f;
+  overflow: hidden;
+  height: 150px;
+  height: 150px;
+  position: relative;
+  cursor: pointer;
+}
+.box-card-8:hover .box-info-8 {
+  transform: translateY(0%);
+}
+.box-info-8 {
+  background-color: #ffc71f;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease;
+}
+
+.box-card-9 {
+  background-color: white;
+  overflow: hidden;
+  height: 150px;
+  height: 150px;
+  position: relative;
+  cursor: pointer;
+}
+.box-card-9:hover .box-info-9 {
+  transform: translateY(0%);
+}
+.box-info-9 {
+  background-color: white;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease;
+}
+
+.box-card-10 {
+  background-color: #1982e6;
+  overflow: hidden;
+  height: 150px;
+  height: 150px;
+  position: relative;
+  cursor: pointer;
+}
+.box-card-10:hover .box-info-10 {
+  transform: translateY(0%);
+}
+.box-info-10 {
+  background-color: #1982e6;
+  overflow: hidden;
+  height: 150px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+  transform: translateY(100%);
+  transition: all 0.4s ease;
+}
