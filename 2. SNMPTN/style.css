@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.background-image {
+  background-image: url("https://pengumuman-snmptn.ltmpt.ac.id/img/background.jpg");
+  background-size: cover;
+}
+.kotak {
+  height: 450px;
+  width: 650px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.3);
+  box-shadow: -2px 5px 20px rgb(0 0 0 / 50%);
+  backdrop-filter: blur(30px);
+  padding: 25px;
+}
+.margin-top {
+  margin-top: 12%;
+}
+.text-thin-snm {
+  font-size: 15px;
+  color: rgb(151, 151, 151);
+}
+
+.form-label {
+  color: #87cbef;
+}
+input {
+  border-radius: 45px;
+}
+.style-button {
+  border-radius: 25px;
+}
